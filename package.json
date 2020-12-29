@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Purvansh",
+  "author": "Harsh",
   "license": "ISC",
   "dependencies": {
     "@node-minify/clean-css": "^5.3.0",
